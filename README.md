@@ -35,7 +35,10 @@
   <tr>
     <td>Ozon</td>
     <td>+</td>
-    <td><a href="https://ozon.tech/routestart/" target="_blank">Перейти</a></td>
+    <td>
+      <a href="https://ozon.tech/routestart/" target="_blank">Перейти</a><br>
+      <a href="https://route256.ozon.ru/" target="_blank">Перейти</a>
+    </td>
   </tr>
   <tr>
     <td>Avito</td>
