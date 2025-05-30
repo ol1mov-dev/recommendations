@@ -10,7 +10,7 @@
   <tr>
     <td>Yandex</td>
     <td>+</td>
-    <td><a href = "https://yandex.ru/yaintern/" target = "_blank" rel = "nofollow">click</td>
+    <td><a href = "https://yandex.ru/yaintern/" target = "_blank" rel = "nofollow">click</a></td>
   </tr>
   <tr>
     <td>Kaspersky Lab</td>
