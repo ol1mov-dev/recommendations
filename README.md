@@ -10,21 +10,21 @@
   <tr>
     <td>Yandex</td>
     <td>+</td>
-    <td><a href = "https://yandex.ru/yaintern/">click</td>
+    <td><a href = "https://yandex.ru/yaintern/" target = "_blank">click</td>
   </tr>
   <tr>
     <td>Kaspersky Lab</td>
     <td>+</td>
-    <td><a href = "http://safeboard.kaspersky.ru/">click</td>
+    <td><a href = "http://safeboard.kaspersky.ru/" target = "_blank">click</td>
   </tr>
   <tr>
     <td>Kontur</td>
     <td>+</td>
-    <td><a href = "https://kontur.ru/education/programs/intern">click</td>
+    <td><a href = "https://kontur.ru/education/programs/intern" target = "_blank">click</td>
   </tr>
       <tr>
     <td>Yandex</td>
     <td>+</td>
-    <td><a href = "https://yandex.ru/yaintern/">click</td>
+    <td><a href = "https://yandex.ru/yaintern/" target = "_blank">click</td>
   </tr>
 </table>
