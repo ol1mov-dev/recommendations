@@ -8,7 +8,6 @@
 <h3><a href = "https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file#-software-engineering-internship-roles">Стажировки в зарубежных компаниях / Internships in foreign companies</a</h3>
 <h3><a href = "https://roadmap.sh/">Роадмапы / Roadmaps</a></h3>
 <h3><a href = "https://t.me/it_en_chats">Чаты по программированию и другим направлениям (ENG) / Chats on programming and other topics</a></h3>
-<h3><a href = "https://www.displayme.online/">Конструктор для создание резюме для зарубежных компаний / Constructor for creating CV for foreign companies</a></h3>
 <h3><a href = "https://github.com/mrhakimov/russian-internships?tab=readme-ov-file">Стажировки РФ</a></h3>
 <h3><a href = "https://github.com/mrhakimov/russian-internships/blob/master/Additional_list_of_companies.md">Зарубежные компании, которые нанимают граждан СНГ (включая граждан РФ)</a></h3>
 <h3><a href = "https://t.me/it_chats">Чаты по программированию и другим направлениям (RU) </a></h3>
