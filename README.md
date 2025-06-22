@@ -1,7 +1,8 @@
 <h1>Полезные ресурсы и рекомендации</h1>
 
-<h2>Карьера</h2>
+<h2>Карьера / Career</h2>
 <h3><a href = "https://www.youtube.com/@ByteByteGo">Канал по системному дизайну от бывшего инженера X (Twitter), Apple и Oracle / YT channel of ex-engineer X, Apple, Oracle</a></h3>
+<h3><a href = "https://quickref.me">Шпаргалки / Cheatsheets</a></h3>
 <h3><a href = "https://t.me/resume_review">Чат с разборами резюме / CV review</a></h3>
 <h3><a href = "https://t.me/sns_internships">Чат с разборами стажировок и карьеры / Chat with Internship and Career Analysis</a></h3>
 <h3><a href = "https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file#-software-engineering-internship-roles">Стажировки в зарубежных компаниях / Internships in foreign companies</a</h3>
