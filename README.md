@@ -5,6 +5,7 @@
 <h3><a href = "https://quickref.me">Шпаргалки / Cheatsheets</a></h3>
 <h3><a href = "https://t.me/resume_review">Чат с разборами резюме / CV review</a></h3>
 <h3><a href = "https://t.me/sns_internships">Чат с разборами стажировок и карьеры / Chat with Internship and Career Analysis</a></h3>
+<h3><a href = "https://www.levels.fyi">Зарплаты в разных компаниях / Salaries in different BigTech Companies</a></h3>
 <h3><a href = "https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file#-software-engineering-internship-roles">Стажировки в зарубежных компаниях / Internships in foreign companies</a</h3>
 <h3><a href = "https://roadmap.sh/">Роадмапы / Roadmaps</a></h3>
 <h3><a href = "https://t.me/it_en_chats">Чаты по программированию и другим направлениям (ENG) / Chats on programming and other topics</a></h3>
