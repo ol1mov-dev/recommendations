@@ -8,22 +8,23 @@
 <h3><a href = "https://www.levels.fyi">Зарплаты в разных компаниях / Salaries in different BigTech Companies</a></h3>
 <h3><a href = "https://github.com/SimplifyJobs/Summer2025-Internships?tab=readme-ov-file#-software-engineering-internship-roles">Стажировки в зарубежных компаниях / Internships in foreign companies</a</h3>
 <h3><a href = "https://roadmap.sh/">Роадмапы / Roadmaps</a></h3>
-<h3><a href = "https://t.me/upgradeu2025">Бесплатные курс на Udemy / Free Udemy Courses* </a></h3>
+<h3><a href = "https://t.me/upgradeu2025">Бесплатные курсы на Udemy / Free Udemy Courses* </a></h3>
 
 <h3><a href = "https://t.me/it_en_chats">Чаты по программированию и другим направлениям (ENG) / Chats on programming and other topics</a></h3>
 <h3><a href = "https://docs.google.com/spreadsheets/d/1-dhdk1fdjad7mLvWru1V_2egHQ32FH9-veMlosed-tg/edit?gid=0#gid=0">Список блогов от работников разных компаний / List of blogs from employees of different companies.</a></h3>
-
 <h3><a href = "https://github.com/mrhakimov/russian-internships?tab=readme-ov-file">Стажировки РФ</a></h3>
 <h3><a href = "https://github.com/mrhakimov/russian-internships/blob/master/Additional_list_of_companies.md">Зарубежные компании, которые нанимают граждан СНГ (включая граждан РФ)</a></h3>
 <h3><a href = "https://t.me/it_chats">Чаты по программированию и другим направлениям (RU) </a></h3>
 <br>
 <blockquote>
   Не стесняйтесь писать в чаты за помощью, если не можете решить ту или иную проблему. Критика со сторны коллег - неотъемлемая часть вашей работы.<br>
+  <hr>
   Don't be shy about writing in chats for help if you can't solve a particular problem. Criticism from colleagues is an integral part of your work.
 </blockquote>
 
 <blockquote>
   * Курсы не взломаные. Время от времени Udemy раздает курсы сам со скидкой в 100%. Этот канал отслеживает такие раздачи и постит их у себя.<br>
+  <hr>
   * Courses are not hacked. From time to time, Udemy itself gives away courses with a 100% discount. This channel tracks such distributions and posts them on its own.
 </blockquote>
 
