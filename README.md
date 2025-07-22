@@ -17,11 +17,13 @@
 <h3><a href = "https://t.me/it_chats">Чаты по программированию и другим направлениям (RU) </a></h3>
 <br>
 <blockquote>
-  Не стесняйтесь писать в чаты за помощью, если не можете решить ту или иную проблему. Критика со сторны коллег - неотъемлемая часть вашей работы. / Don't be shy about writing in chats for help if you can't solve a particular problem. Criticism from colleagues is an integral part of your work.
+  Не стесняйтесь писать в чаты за помощью, если не можете решить ту или иную проблему. Критика со сторны коллег - неотъемлемая часть вашей работы.<br>
+  Don't be shy about writing in chats for help if you can't solve a particular problem. Criticism from colleagues is an integral part of your work.
 </blockquote>
 
 <blockquote>
-  * Курсы не взломаные. Время от времени Udemy раздает курсы сам со скидкой в 100%. Этот канал отслеживает такие раздачи и постит их у себя. / Courses are not hacked. From time to time, Udemy itself gives away courses with a 100% discount. This channel tracks such distributions and posts them on its own.
+  * Курсы не взломаные. Время от времени Udemy раздает курсы сам со скидкой в 100%. Этот канал отслеживает такие раздачи и постит их у себя. <br>
+    Courses are not hacked. From time to time, Udemy itself gives away courses with a 100% discount. This channel tracks such distributions and posts them on its own.
 </blockquote>
 
 <h2>Полезные утилиты</h2>
