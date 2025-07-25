@@ -26,8 +26,9 @@
     Courses are not hacked. From time to time, Udemy itself gives away courses with a 100% discount. This channel tracks such distributions and posts them on its own.
 </blockquote>
 
-<h2>Полезные утилиты</h2>
+<h2>Useful programs / Программы</h2>
 <h3><a href = "https://www.warp.dev/">Warp - modern terminal with AI</a></h3>
+
 
 
 
